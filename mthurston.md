@@ -22,8 +22,8 @@ All content from Wikipedia:
 - [link] (https://en.wikipedia.org/wiki/Hydropower)
 - [link] (https://en.wikipedia.org/wiki/Wind_power)
 
-## About this assignment
+## About this webpage
 
 - Webpage by Margaret Thurston
-- Lab 4: Markdown
-- Created September 19, 2018
+- Created for Lab 4: Markdown, for CSC 174
+- Updated September 19, 2018
