@@ -10,7 +10,7 @@ Hydropower or water power (from Greek: ύδωρ, "water") is power derived from 
 
 In the late 19th century, hydropower became a source for generating electricity. Cragside in Northumberland was the first house powered by hydroelectricity in 1878 and the first commercial hydroelectric power plant was built at Niagara Falls in 1879. In 1881, street lamps in the city of Niagara Falls were powered by hydropower.
 
-Since the early 20th century, the term has been used almost exclusively in conjunction with the modern development of hydroelectric power. International institutions such as the World Bank view hydropower as a means for economic development without adding substantial amounts of carbon to the atmosphere,[4] but dams can have significant negative social and environmental impacts.
+Since the early 20th century, the term has been used almost exclusively in conjunction with the modern development of hydroelectric power. International institutions such as the World Bank view hydropower as a means for economic development without adding substantial amounts of carbon to the atmosphere, but dams can have significant negative social and environmental impacts.
 
 ## Wind Power
 
