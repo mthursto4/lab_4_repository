@@ -1,5 +1,7 @@
 # Renewable Energy
 
+## About Renewable Energy
+
 Renewable energy is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sunlight, wind, rain, tides, waves, and geothermal heat. Renewable energy often provides energy in four important areas: electricity generation, air and water heating/cooling, transportation, and rural (off-grid) energy services. Here, we'll talk about hydropower, wind power, and solar power.
 
 ## Hydropower
