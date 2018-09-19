@@ -30,9 +30,9 @@ As the cost of solar electricity has fallen, the number of grid-connected solar 
 
 ## Sources
 All content from Wikipedia:
-- [link] (https://en.wikipedia.org/wiki/Renewable_energy)
-- [link] (https://en.wikipedia.org/wiki/Hydropower)
-- [link] (https://en.wikipedia.org/wiki/Wind_power)
+- [link](https://en.wikipedia.org/wiki/Renewable_energy)
+- [link](https://en.wikipedia.org/wiki/Hydropower)
+- [link](https://en.wikipedia.org/wiki/Wind_power)
 
 ## About this webpage
 
